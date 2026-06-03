@@ -7,7 +7,7 @@ code or implementation notes.
 
 This project is not affiliated with, endorsed by, or guided by Rayark Inc.
 
-Live app: https://im-system-cytus.vercel.app
+Live app: https://imsystem.app or https://www.imsystem.app
 
 ## What You Can Do
 
@@ -56,6 +56,3 @@ For feature requests, describe:
 - The user problem or workflow.
 - The change you want to see.
 - Why it would improve iM System.
-
-Please keep requests focused on the public app experience rather than internal
-technical design.
